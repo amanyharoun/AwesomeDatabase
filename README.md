@@ -22,6 +22,19 @@ A collection of books was created on Firebase and on Codepen, two properties wer
 To make sure data entry is passed from Codepen to Firebase event and datahandling using @click, mounted hook and methods were used.
 
 
+## Data Entry: Author Details and user Passwords (incomplete)
+This project should have a sign in page and also the interface should have a slot for author details.
+
+# Chatbox (tested and incomplete on another Codepen that was forked for this reason) https://codepen.io/amany_h/pen/WNwwwyY 
+As Chatboxes are not easy to make using Vue JS, I have been trying to reate a chatbox (not a chatbot) using diffrerent resources and websites. 
+## Resources:
+https://vuejsexamples.com/tag/chat/
+https://codepen.io/abhyuday28/pen/bjeRBY
+
+
+
+
+
       
       
       
