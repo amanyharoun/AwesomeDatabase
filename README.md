@@ -4,7 +4,7 @@
 https://amanyharoun.github.io/AwesomeDatabase/
 
 ## Link to YouTube reflection video
-
+https://www.youtube.com/watch?v=p2d1AvQI-gE
 
 ## Design executive summary:
 
