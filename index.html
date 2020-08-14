@@ -12,12 +12,12 @@
   <h1>Awesome Database</h1>
   <div>
       <p v-if="OriginalPrice"> $200 </p>
-      <p v-else="membership">Membership is $11 for a limited time 🕒 </p>
+     <p v-else="membership">Membership for employees family is $11 for a limited time 🕒 </p>
     <h2> Adding a book to the database:</h2>
       
       
     <ul>
-        <li v-for="detail in details">{{ detail }}</li>
+      <li v-for="detail in details"><h4>{{ detail }}</h4></li>
       </ul>
     </div>
   <hr>
